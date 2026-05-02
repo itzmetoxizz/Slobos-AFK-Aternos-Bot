@@ -1,13 +1,13 @@
 {
   "name": "AFK Bot",
   "bot-account": {
-    "username": "Itzmetoxxizz",
+    "username": "Itzmetoxizz",
     "password": "",
     "type": "offline"
   },
   "server": {
-    "ip": "oneblock12smp.aternos.me",
-    "port": 34967,
+    "ip": "13.60.24.25",
+    "port": 25565,
     "version": "1.21.11",
     "try-creative": false
   },
